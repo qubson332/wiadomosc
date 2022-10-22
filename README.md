@@ -1,2 +1,1 @@
-# wiadomosc
-wiadomosc
+twórca/dev: Qubson332
